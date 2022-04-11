@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="67DA61D7-B8EF-4E77-8BEE-FDFA7FD5E3D1" version="0">
+	<info>
+		<title>tast080422</title>
+		<description/>
+	</info>
+	<files index="id23" thumbnail="id19" totalSize="1935204">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/html5-unsupported.html</file>
+		<file id="id7">data/html5.png</file>
+		<file id="id8">data/images/img-210ac294aa814cbeaff8b38dfa756ecca882482f.jpg</file>
+		<file id="id9">data/images/img-29448dece602248a8c21753e392adf0fa18efac1.jpg</file>
+		<file id="id10">data/images/img-38578dece31741ec4c2dcbb231723e9b43d2a74e.jpg</file>
+		<file id="id11">data/images/img-82e6f9eb44a34676cd90e64634930b10f6f5704d.jpg</file>
+		<file id="id12">data/images/img-88fab936da347c0ab9034bfb62c4beeae3297081.jpg</file>
+		<file id="id13">data/images/img-8aef6c8554162a626853cea220fc87694f59ea7a.jpg</file>
+		<file id="id14">data/images/img-c366b6303bdf4930f0dab1ac4449f010e394e1ee.jpg</file>
+		<file id="id15">data/images/img-c99c62977d9f4a60bd9339620c8ff88f0e068935.jpg</file>
+		<file id="id16">data/images/img-e9c8c1454b26e098d4d16e5a0cb4daa490d725cd.jpg</file>
+		<file id="id17">data/ismplayer/app_store2x.png</file>
+		<file id="id18">data/ismplayer/play.svg</file>
+		<file id="id19">data/ismplayer/preview.png</file>
+		<file id="id20">data/ismplayer/style.css</file>
+		<file id="id21">data/ismplayer/style_mini.css</file>
+		<file id="id22">data/player.js</file>
+		<file id="id23">index.html</file>
+		<file id="id24">ismplayer.html</file>
+		<file id="id25">preview.png</file>
+	</files>
+</presentation>
+
